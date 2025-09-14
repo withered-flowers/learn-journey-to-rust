@@ -197,7 +197,7 @@ fn x09_ownership() {
 }
 
 pub fn invoker() {
-    println!("===== 06 - Ownership =====");
+    println!("\n===== 06 - Ownership =====");
 
     x01_ownership();
     x02_ownership();

@@ -100,7 +100,7 @@ fn x05_diverging_functions() {
 }
 
 pub fn invoker() {
-    println!("===== 05 - Functions =====");
+    println!("\n===== 05 - Functions =====");
 
     x01_functions();
     x02_functions();

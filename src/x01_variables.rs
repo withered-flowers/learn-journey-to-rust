@@ -96,7 +96,7 @@ fn x09_destructuring_assignment() {
 }
 
 pub fn invoker() {
-    println!("===== 01 - Variables =====");
+    println!("\n===== 01 - Variables =====");
     x01_binding();
     x02_binding();
     x03_scope();

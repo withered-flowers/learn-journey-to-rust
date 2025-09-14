@@ -141,7 +141,7 @@ fn x11_computations() {
 }
 
 pub fn invoker() {
-    println!("===== 02 - Numbers =====");
+    println!("\n===== 02 - Numbers =====");
     x01_integer();
     x02_integer();
     x03_integer();

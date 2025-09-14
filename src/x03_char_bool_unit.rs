@@ -75,7 +75,7 @@ fn x06_unit_type() {
 }
 
 pub fn invoker() {
-    println!("===== 03 - Char, Bool, and Unit =====");
+    println!("\n===== 03 - Char, Bool, and Unit =====");
 
     x01_char();
     x02_char();

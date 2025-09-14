@@ -57,7 +57,7 @@ fn x03_exercises() {
 }
 
 pub fn invoker() {
-    println!("===== 04 - Statements & Expressions =====");
+    println!("\n===== 04 - Statements & Expressions =====");
 
     x00_examples();
     x01_exercises();
